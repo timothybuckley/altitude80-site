@@ -1,0 +1,19 @@
+.navLink {
+  color: white;
+  margin-left: 1rem;
+  margin-right: 1rem;
+}
+
+.navLink:hover {
+  color: #fae585;
+}
+
+.navbarText {
+  margin-right: 2rem;
+}
+
+.linkedinLogo {
+  width: 82px;
+  height: 20px;
+  margin-left: 1rem;
+}
