@@ -16,7 +16,7 @@ const HomePage = () => {
           <div className="flex flex-col md:flex-row items-center">
             <div className="md:w-3/5 md:pr-12 mb-8 md:mb-0">
               <p className="mb-4">
-                Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Est ullamcorper eget nulla facilisi etiam dignissim diam. Erat nam at lectus urna. Quam viverra orci sagittis eu volutpat odio facilisis. A diam maecenas sed enim ut sem. Est ante in nibh mauris cursus.
+                This is new text to test Vercel pulling from github.  Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Est ullamcorper eget nulla facilisi etiam dignissim diam. Erat nam at lectus urna. Quam viverra orci sagittis eu volutpat odio facilisis. A diam maecenas sed enim ut sem. Est ante in nibh mauris cursus.
               </p>
               <p className="mb-4">
                 Tempor id eu nisl nunc mi ipsum faucibus. Ornare massa eget egestas purus viverra accumsan in nisl. Facilisis sed odio morbi quis commodo odio aenean sed. Facilisi etiam dignissim diam quis enim lobortis scelerisque. Neque convallis a cras semper auctor neque vitae tempus. Pellentesque habitant morbi tristique senectus et netus et malesuada.
@@ -33,8 +33,6 @@ const HomePage = () => {
             </div>
           </div>
         </section>
-
-
 
 {/* Card Section */}
 <section className="mx-4 sm:mx-6 lg:mx-8 mb-16">
@@ -100,11 +98,7 @@ const HomePage = () => {
             </div>
           </div>
         </section>
-
-
-
       </main>
-
       <Footer />
     </>
   );
